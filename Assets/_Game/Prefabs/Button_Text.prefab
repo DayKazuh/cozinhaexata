@@ -32,7 +32,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 8599533250534614686}
+  - {fileID: 5816760692989499044}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -137,7 +137,7 @@ MonoBehaviour:
   m_EffectColor: {r: 0, g: 0, b: 0, a: 0.19607843}
   m_EffectDistance: {x: 0, y: -9.24}
   m_UseGraphicAlpha: 1
---- !u!1001 &6224430122532966228
+--- !u!1001 &8182894091249336174
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -227,15 +227,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2885396371979873267, guid: 2b13733080147fa47a7803d8bca2dbbf, type: 3}
       propertyPath: m_Name
-      value: Text
+      value: 'Text '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8678049665764564879, guid: 2b13733080147fa47a7803d8bca2dbbf, type: 3}
+      propertyPath: m_fontSize
+      value: 29.95
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2b13733080147fa47a7803d8bca2dbbf, type: 3}
---- !u!224 &8599533250534614686 stripped
+--- !u!224 &5816760692989499044 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 2393157263768889802, guid: 2b13733080147fa47a7803d8bca2dbbf, type: 3}
-  m_PrefabInstance: {fileID: 6224430122532966228}
+  m_PrefabInstance: {fileID: 8182894091249336174}
   m_PrefabAsset: {fileID: 0}

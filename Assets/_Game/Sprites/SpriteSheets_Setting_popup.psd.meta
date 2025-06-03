@@ -704,7 +704,7 @@ TextureImporter:
         width: 24
         height: 559
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -713,6 +713,28 @@ TextureImporter:
       bones: []
       spriteID: 2ad01f386841a1744b4319c0139dc683
       internalID: -602830615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheets_Setting_barra
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 949
+        width: 350
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a15f4f4ead994c4f8e5578871e8f940
+      internalID: -495517966
       vertices: []
       indices: 
       edges: []
@@ -748,6 +770,7 @@ TextureImporter:
       Semente_1: -3542661638357330190
       Semente_2: 6286198161725759552
       SpriteSheets_Seta: -1528192571010914076
+      SpriteSheets_Setting_barra: -495517966
       "bot\xE3o": 6985099626507998614
       divisao: -602830615
       galho: -1454738870258906631

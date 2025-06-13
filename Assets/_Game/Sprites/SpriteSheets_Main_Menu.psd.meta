@@ -461,6 +461,28 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Gradiente_Bege
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 675
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ca666f251ac6840ac542b5c77e4d9b
+      internalID: -1938074512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -475,6 +497,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+      Gradiente_Bege: -1938074512
       Gradiente_Orange: -3137449836500566776
       Icon_Circle: 9096967807044030588
       Icon_Home: 6151046820827808602
